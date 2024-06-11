@@ -38,3 +38,15 @@ http://176.197.241.104:81/udp/239.255.42.223:1234
 #EXTINF:-1,Blue Hustler
 #EXTGRP:Adult
 http://176.197.241.104:81/udp/239.255.42.222:1234
+#EXTINF:-1,Private HD
+#EXTGRP:Adult
+http://46.163.155.237:65081/udp/239.99.17.236:1234
+#EXTINF:-1,Vixen HD
+#EXTGRP:Adult
+http://78.130.250.2:8023/play/a031/index.m3u8
+#EXTINF:-1,Penthouse 1 HD
+#EXTGRP:Adult
+http://78.130.250.2:8023/play/a005/index.m3u8
+#EXTINF:-1,Penthouse 2 HD
+#EXTGRP:Adult
+http://78.130.250.2:8023/play/a006/index.m3u8
