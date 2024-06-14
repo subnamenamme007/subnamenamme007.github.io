@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1,2x2
-#EXTGRP:Детские
+#EXTINF:-1 group-title="Детские",2x2
 http://188.234.239.128:40402/udp/225.0.55.51:1234
-#EXTINF:-1,Baby time
-#EXTGRP:Детские
+#EXTINF:-1 group-title="Детские",Baby time
 http://217.24.185.123:63050/udp/239.99.17.185:1234
-#EXTINF:-1,Cartoons Big HD
-#EXTGRP:Детские
+#EXTINF:-1 group-title="Детские",Cartoons Big HD
 http://195.158.222.115:8000/play/a05g/index.m3u8
-#EXTINF:-1,Magic Disney HD
-#EXTGRP:Детские
+#EXTINF:-1 group-title="Детские",Magic Disney HD
 http://78.140.13.6:4022/udp/239.254.2.1:1234
