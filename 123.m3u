@@ -50,3 +50,6 @@ http://78.130.250.2:8023/play/a005/index.m3u8
 #EXTINF:-1,Penthouse 2 HD
 #EXTGRP:Adult
 http://78.130.250.2:8023/play/a006/index.m3u8
+#EXTINF:-1,Телеканал кому за 18
+#EXTGRP:Adult
+https://v2.catcast.tv/content/37358/index.m3u8
