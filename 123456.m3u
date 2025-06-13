@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Детские",Лëва HD
+http://188.234.217.246:45392/udp/225.0.55.98:1234
 #EXTINF:-1 group-title="Детские",2x2
 http://188.234.217.246:45392/udp/225.0.55.51:1234
 #EXTINF:-1 group-title="Детские",Cartoon Classics
