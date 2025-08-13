@@ -59,6 +59,9 @@ http://78.130.250.2:8023/play/a006/index.m3u8
 #EXTINF:-1,Penthouse Gold HD
 #EXTGRP:Adult
 http://85.12.205.107:47801/udp/239.99.17.232:1234
+#EXTINF:-1,Penthouse Gold
+#EXTGRP:Adult
+http://187.190.55.144:5501/udp/225.1.1.149:5149
 #EXTINF:-1,Шёлк HD
 #EXTGRP:Adult
 http://188.234.217.246:45392/udp/225.0.55.232:1234
@@ -104,3 +107,9 @@ http://85.196.241.132:28672/udp/239.130.3.27:7051
 #EXTINF:-1, Exxxotica HD
 #EXTGRP:Adult
 http://217.24.185.123:63050/udp/239.99.17.120:1234
+#EXTINF:-1, Passion XXX
+#EXTGRP:Adult
+http://94.156.59.233:8899/udp/239.10.2.180:30000
+#EXTINF:-1, Passion XXX -2
+#EXTGRP:Adult
+http://94.156.59.233:8899/udp/239.10.2.181:30000
