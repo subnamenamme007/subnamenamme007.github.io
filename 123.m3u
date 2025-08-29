@@ -116,3 +116,6 @@ http://94.156.59.233:8899/udp/239.10.2.181:30000
 #EXTINF:-1, Red Lips HD
 #EXTGRP:Adult
 http://188.234.217.246:45392/udp/225.0.55.230:1234
+#EXTINF:-1,BCU Charm HD
+#EXTGRP:Взрослые
+http://cdn.admuspeh.my/8978/index.m3u8?token=qwFZqkLzC2pK6whe
