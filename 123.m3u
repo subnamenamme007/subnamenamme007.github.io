@@ -92,9 +92,6 @@ http://92.242.254.205:1767/udp/227.40.50.205:1234
 #EXTINF:-1,Barely Legal TV
 #EXTGRP:Adult
 http://212.75.204.30:81/udp/239.255.42.224:1234
-#EXTINF:-1,Passion XXX
-#EXTGRP:Adult
-http://94.156.59.233:8899/udp/239.10.2.180:30000
 #EXTINF:-1,Passion XXX -2
 #EXTGRP:Adult
 http://94.156.59.233:8899/udp/239.10.2.181:30000
@@ -140,7 +137,7 @@ http://91.219.133.62:1234/udp/239.1.1.214:1234
 #EXTINF:-1,Passion XXX HD
 #EXTGRP:Взрослые
 http://91.219.133.62:1234/udp/239.1.1.83:1234
-#EXTINF:-1,PassionXXX
+#EXTINF:-1,Passion XXX
 #EXTGRP:Взрослые
 http://94.156.59.233:8899/udp/239.10.2.180:30000
 #EXTINF:-1,PassionXXX -2
