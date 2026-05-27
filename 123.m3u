@@ -34,13 +34,13 @@ http://92.242.254.29:12002/udp/227.40.37.1:1234
 http://92.242.254.29:12002/udp/227.40.50.204:1234
 #EXTINF:-1,Blue Hustler
 #EXTGRP:Adult
-http://176.197.241.104:81/udp/239.255.42.222:1234
+http://92.242.254.29:12002/udp/227.40.50.117:1234
 #EXTINF:-1,Blue Hustler HD
 #EXTGRP:Adult
-http://5.165.18.78:40568/udp/225.0.56.50:1234
+http://82.114.242.24:8002/udp/233.166.172.253:1234
 #EXTINF:-1,Hustler HD
 #EXTGRP:Adult
-http://85.12.236.130:81/udp/239.99.17.252:1234
+http://85.14.32.26:8800/udp/239.100.10.58:5000
 #EXTINF:-1,Private HD
 #EXTGRP:Adult
 http://85.12.236.130:81/udp/239.99.17.236:1234
@@ -58,7 +58,7 @@ http://78.130.250.2:8023/play/a005/index.m3u8
 http://78.130.250.2:8023/play/a006/index.m3u8
 #EXTINF:-1,Penthouse Gold HD
 #EXTGRP:Adult
-http://85.12.236.130:81/udp/239.99.17.232:1234
+http://37.189.31.207:5454/play/a035/index.m3u8
 #EXTINF:-1,Penthouse Gold
 #EXTGRP:Adult
 http://187.190.55.144:5501/udp/225.1.1.149:5149
@@ -67,7 +67,7 @@ http://187.190.55.144:5501/udp/225.1.1.149:5149
 http://5.165.18.78:40568/udp/225.0.55.232:1234
 #EXTINF:-1,Penthouse Reality TV HD
 #EXTGRP:Adult
-http://85.12.236.130:81/udp/239.99.17.237:1234
+http://85.14.32.26:8800/udp/239.10.10.207:5000
 #EXTINF:-1,Vivid Red HD
 #EXTGRP:Adult
 http://85.12.236.130:81/udp/239.99.17.238:1234
@@ -76,7 +76,7 @@ http://85.12.236.130:81/udp/239.99.17.238:1234
 http://85.196.241.132:8888/udp/239.130.5.43:7051
 #EXTINF:-1,Ero XXX HD
 #EXTGRP:Adult
-http://85.12.236.130:81/udp/239.99.17.228:1234
+http://85.14.32.26:8800/udp/239.10.10.164:5000
 #EXTINF:-1,Frenchlover
 #EXTGRP:Adult
 http://85.12.236.130:81/udp/239.99.17.164:1234
@@ -86,153 +86,186 @@ http://45.161.24.2:4025/udp/224.32.32.32:6969
 #EXTINF:-1,Reality Kings HD
 #EXTGRP:Adult
 http://92.242.254.29:12002/udp/227.40.50.206:1234
+#EXTINF:-1,Reality Kings
+#EXTGRP:Adult
+http://85.14.32.26:8800/udp/239.10.10.81:5000
 #EXTINF:-1,Playboy TV HD
 #EXTGRP:Adult
 http://92.242.254.205:1767/udp/227.40.50.205:1234
 #EXTINF:-1,Barely Legal TV
 #EXTGRP:Adult
-http://46.180.108.130:81/udp/239.255.42.224:1234
+http://82.114.242.24:8002/udp/233.166.173.212:1234
 #EXTINF:-1,Passion XXX -2
 #EXTGRP:Adult
 http://94.156.59.233:8899/udp/239.10.2.181:30000
 #EXTINF:-1,BCU Charm HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://cdn.admuspeh.my/8978/index.m3u8?token=qwFZqkLzC2pK6whe
 #EXTINF:-1,Brazzers TV Europe
-#EXTGRP:Взрослые
-http://5.165.18.78:40568/udp/225.0.55.239:1234
+#EXTGRP:Adult
+http://82.114.242.24:8002/udp/233.166.173.64:1234
 #EXTINF:-1,Brazzers TV Europe HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://85.196.241.132:8888/udp/239.130.3.27:7051
 #EXTINF:-1,Erox HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://91.219.133.62:1234/udp/239.1.1.87:1234
 #EXTINF:-1,Erox
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://195.191.208.205:8087/udp/239.60.64.6:6410
 #EXTINF:-1,Extasy 4K Platinum
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.31.11:1234
 #EXTINF:-1,Extasy TV HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://91.219.133.62:1234/udp/239.1.1.132:1234
+#EXTINF:-1,Extasy
+#EXTGRP:Adult
+http://85.14.32.26:8800/udp/239.10.10.208:5000
 #EXTINF:-1,Exxxotica HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://85.12.236.130:81/udp/239.99.17.120:1234
+#EXTINF:-1,Exxxotica
+#EXTGRP:Adult
+http://82.114.242.24:8002/udp/233.166.172.157:1234
 #EXTINF:-1,Hustler TV
-#EXTGRP:Взрослые
-http://92.242.254.29:12002/udp/227.40.50.66:1234
+#EXTGRP:Adult
+http://85.14.32.26:8800/udp/239.10.10.88:5000
 #EXTINF:-1,LEO TV GOLD HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://91.219.133.62:1234/udp/239.1.1.247:1234
 #EXTINF:-1,LEO TV HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://91.219.133.62:1234/udp/239.1.1.200:1234
 #EXTINF:-1,Leo TV HD Late Night
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://91.219.133.62:1234/udp/239.1.1.214:1234
 #EXTINF:-1,Passion XXX HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.33.39:1234
 #EXTINF:-1,Passion XXX
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://94.156.59.233:8899/udp/239.10.2.180:30000
 #EXTINF:-1,PassionXXX -2
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://94.156.59.233:8899/udp/239.10.2.181:30000
 #EXTINF:-1,Pink O -2
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://94.156.59.233:8899/udp/239.10.2.199:30000
 #EXTINF:-1,Pink O TV
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://94.156.59.233:8899/udp/239.10.2.198:30000
 #EXTINF:-1,Playboy LA HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://148.230.180.212:4066/udp/225.1.10.5:15005
 #EXTINF:-1,Playboy TV
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://195.191.208.205:8087/udp/229.11.0.242:1234
 #EXTINF:-1,Private TV
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://92.242.254.29:12002/udp/227.40.33.18:1234
 #EXTINF:-1,Red Lips HD
-#EXTGRP:Взрослые
-http://5.165.18.78:40568/udp/225.0.55.230:1234
+#EXTGRP:Adult
+http://188.234.239.128:40402/udp/225.0.55.230:1234
 #EXTINF:-1,Sextreme
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://187.190.55.144:5501/udp/225.1.1.148:5148
 #EXTINF:-1,XY Plus 2
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://94.156.59.233:8899/udp/239.10.3.18:30000
 #EXTINF:-1,XYplus
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://94.156.59.233:8899/udp/239.10.3.17:30000
 #EXTINF:-1,Русская Ночь
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://85.12.236.130:81/udp/239.99.17.171:1234
 #EXTINF:-1,Русская Ночь HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://5.165.18.78:40568/udp/225.0.55.235:1234
 #EXTINF:-1,Шалун
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://5.165.18.78:40568/udp/225.0.55.234:1234
 #EXTINF:-1,Шалун ТВ HD
-#EXTGRP:Взрослые
-http://195.191.208.205:8087/udp/224.0.191.23:1234
+#EXTGRP:Adult
+http://82.114.242.24:8002/udp/233.166.172.89:1234
 #EXTINF:-1,Babes TV HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://195.191.208.205:8087/udp/233.170.170.58:58631
 #EXTINF:-1,Babes TV
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://195.191.208.205:8087/udp/238.2.5.209:1234
 #EXTINF:-1,Penthouse Passion HD
-#EXTGRP:Взрослые
-http://77.76.145.201:4040/udp/239.39.33.197:1234
+#EXTGRP:Adult
+http://85.14.32.26:8800/udp/239.10.10.221:5000
+#EXTINF:-1,Penthouse Passion
+#EXTGRP:Adult
+http://85.14.32.26:8800/udp/239.10.10.205:5000
 #EXTINF:-1,Passion XXX 3
-#EXTGRP:Взрослые
-http://77.76.145.201:4040/udp/239.39.32.128:1234
+#EXTGRP:Adult
+http://94.156.59.233:8899/udp/239.10.3.198:30000
 #EXTINF:-1,Penthouse Gold LA HD
-#EXTGRP:Взрослые
-http://187.190.55.136:5501/udp/225.1.1.149:5149
+#EXTGRP:Adult
+http://148.230.180.212:4066/udp/225.1.1.149:5149
 #EXTINF:-1,PinkoClub
-#EXTGRP:Взрослые
-http://77.76.145.201:4040/udp/239.39.32.127:1234
+#EXTGRP:Adult
+http://85.14.32.26:8800/udp/239.10.10.220:5000
 #EXTINF:-1,Venus HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://148.230.243.145:4022/udp/225.1.1.190:5190
 #EXTINF:-1,XXL HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.33.42:1234
 #EXTINF:-1,XY Max HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.33.115:1234
+#EXTINF:-1,XY Max
+#EXTGRP:Adult
+http://85.14.32.26:8800/udp/239.10.10.217:5000
 #EXTINF:-1,PinkoClub HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.33.40:1234
 #EXTINF:-1,Passion XXX 2
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.32.212:1234
 #EXTINF:-1,SuperONE HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://82.76.40.30:10000/udp/233.34.10.203:2000
 #EXTINF:-1,SuperONE
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://82.76.40.30:10000/udp/233.34.10.204:2000
 #EXTINF:-1,XY Max HD +2
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.33.118:1234
 #EXTINF:-1,XY Mix HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.33.116:1234
+#EXTINF:-1,XY Mix
+#EXTGRP:Adult
+http://85.14.32.26:8800/udp/239.10.10.218:5000
 #EXTINF:-1,XY Mix HD +2
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.33.119:1234
 #EXTINF:-1,XY Plus HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.33.117:1234
 #EXTINF:-1,XY Plus HD +2
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://77.76.145.201:4040/udp/239.39.33.120:1234
 #EXTINF:-1,Sextreme HD
-#EXTGRP:Взрослые
+#EXTGRP:Adult
 http://148.230.243.145:4022/udp/225.1.1.148:5148
+#EXTINF:-1,Cento X Cento
+#EXTGRP:Adult
+http://94.156.59.233:8899/udp/239.10.3.199:30000
+#EXTINF:-1,Evil Angel HD
+#EXTGRP:Adult
+http://85.14.32.26:8800/udp/239.10.10.224:5000
+#EXTINF:-1,Hot
+#EXTGRP:Adult
+http://37.189.31.207:5454/play/a045/index.m3u8
+#EXTINF:-1,Hot HD
+#EXTGRP:Adult
+http://37.189.31.207:5454/play/a04k/index.m3u8
+#EXTINF:-1,Sexy HOT HD
+#EXTGRP:Adult
+http://37.189.31.207:5454/play/a03p/index.m3u8
