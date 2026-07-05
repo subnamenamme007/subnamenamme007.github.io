@@ -38,7 +38,7 @@ http://5.165.18.78:40568/udp/225.0.55.95:1234
 #EXTINF:-1 group-title="Детские",Мультимузыка
 http://82.114.242.24:8002/udp/233.166.172.151:1234
 #EXTINF:-1 group-title="Музыкальные",Retro Music TV
-http://91.219.133.62:1234/udp/239.1.1.77:1234
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
 http://188.234.217.246:45392/udp/225.0.56.69:1234
 #EXTINF:-1 group-title="Хобби и развлечения",Travel+Adventure HD
