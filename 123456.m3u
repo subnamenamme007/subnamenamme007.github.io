@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Детские",Лëва HD
 http://188.234.217.246:45392/udp/225.0.55.98:1234
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://82.114.242.24:8002/udp/233.166.172.80:1234
 #EXTINF:-1 group-title="Детские",Gulli Girl
 http://5.165.18.78:40568/udp/225.0.55.97:1234
 #EXTINF:-1 group-title="Детские",TiJi
