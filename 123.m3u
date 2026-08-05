@@ -34,19 +34,19 @@ http://92.242.254.29:12002/udp/227.40.37.1:1234
 http://92.242.254.29:12002/udp/227.40.50.204:1234
 #EXTINF:-1,Blue Hustler
 #EXTGRP:Adult
-http://92.242.254.29:12002/udp/227.40.50.117:1234
+http://stream.mcquack.net/280/index.m3u8
 #EXTINF:-1,Blue Hustler HD
 #EXTGRP:Adult
 http://82.114.242.24:8002/udp/233.166.172.253:1234
 #EXTINF:-1,Hustler HD
 #EXTGRP:Adult
-http://85.14.32.26:8800/udp/239.100.10.58:5000
+http://stream.mcquack.net/52/index.m3u8
 #EXTINF:-1,Private HD
 #EXTGRP:Adult
-http://85.12.236.130:81/udp/239.99.17.236:1234
+http://stream.mcquack.net/282/index.m3u8
 #EXTINF:-1,Redlight HD
 #EXTGRP:Adult
-http://85.12.236.130:81/udp/239.99.17.251:1234
+http://stream.mcquack.net/51/index.m3u8
 #EXTINF:-1,Vixen HD
 #EXTGRP:Adult
 http://92.242.254.29:12002/udp/227.40.50.244:1234
@@ -58,7 +58,7 @@ http://78.130.250.2:8023/play/a005/index.m3u8
 http://78.130.250.2:8023/play/a006/index.m3u8
 #EXTINF:-1,Penthouse Gold HD
 #EXTGRP:Adult
-http://37.189.31.207:5454/play/a035/index.m3u8
+http://stream.mcquack.net/66/index.m3u8
 #EXTINF:-1,Penthouse Gold
 #EXTGRP:Adult
 http://187.190.55.144:5501/udp/225.1.1.149:5149
@@ -70,7 +70,7 @@ http://5.165.18.78:40568/udp/225.0.55.232:1234
 http://85.14.32.26:8800/udp/239.10.10.207:5000
 #EXTINF:-1,Vivid Red HD
 #EXTGRP:Adult
-http://85.12.236.130:81/udp/239.99.17.238:1234
+http://stream.mcquack.net/284/index.m3u8
 #EXTINF:-1,Dusk!
 #EXTGRP:Adult
 http://85.196.241.132:8888/udp/239.130.5.43:7051
@@ -79,7 +79,7 @@ http://85.196.241.132:8888/udp/239.130.5.43:7051
 http://85.14.32.26:8800/udp/239.10.10.164:5000
 #EXTINF:-1,Frenchlover
 #EXTGRP:Adult
-http://85.12.236.130:81/udp/239.99.17.164:1234
+http://stream.mcquack.net/54/index.m3u8
 #EXTINF:-1,Venus
 #EXTGRP:Adult
 http://45.161.24.2:4025/udp/224.32.32.32:6969
@@ -91,7 +91,7 @@ http://92.242.254.29:12002/udp/227.40.50.206:1234
 http://85.14.32.26:8800/udp/239.10.10.81:5000
 #EXTINF:-1,Playboy TV HD
 #EXTGRP:Adult
-http://92.242.254.205:1767/udp/227.40.50.205:1234
+http://stream.mcquack.net/290/index.m3u8
 #EXTINF:-1,Barely Legal TV
 #EXTGRP:Adult
 http://82.114.242.24:8002/udp/233.166.173.212:1234
@@ -106,10 +106,10 @@ http://cdn.admuspeh.my/8978/index.m3u8?token=qwFZqkLzC2pK6whe
 http://82.114.242.24:8002/udp/233.166.173.64:1234
 #EXTINF:-1,Brazzers TV Europe HD
 #EXTGRP:Adult
-http://85.196.241.132:8888/udp/239.130.3.27:7051
+http://stream.mcquack.net/53/index.m3u8
 #EXTINF:-1,Erox HD
 #EXTGRP:Adult
-http://91.219.133.62:1234/udp/239.1.1.87:1234
+http://stream.mcquack.net/58/index.m3u8
 #EXTINF:-1,Erox
 #EXTGRP:Adult
 http://195.191.208.205:8087/udp/239.60.64.6:6410
@@ -124,7 +124,7 @@ http://91.219.133.62:1234/udp/239.1.1.132:1234
 http://85.14.32.26:8800/udp/239.10.10.208:5000
 #EXTINF:-1,Exxxotica HD
 #EXTGRP:Adult
-http://85.12.236.130:81/udp/239.99.17.120:1234
+http://stream.mcquack.net/57/index.m3u8
 #EXTINF:-1,Exxxotica
 #EXTGRP:Adult
 http://82.114.242.24:8002/udp/233.166.172.157:1234
@@ -190,7 +190,7 @@ http://5.165.18.78:40568/udp/225.0.55.234:1234
 http://82.114.242.24:8002/udp/233.166.172.89:1234
 #EXTINF:-1,Babes TV HD
 #EXTGRP:Adult
-http://195.191.208.205:8087/udp/233.170.170.58:58631
+http://stream.mcquack.net/55/index.m3u8
 #EXTINF:-1,Babes TV
 #EXTGRP:Adult
 http://195.191.208.205:8087/udp/238.2.5.209:1234
@@ -269,3 +269,6 @@ http://37.189.31.207:5454/play/a04k/index.m3u8
 #EXTINF:-1,Sexy HOT HD
 #EXTGRP:Adult
 http://37.189.31.207:5454/play/a03p/index.m3u8
+#EXTINF:-1,Brazzers HD
+#EXTGRP:Adult
+http://stream.mcquack.net/56/index.m3u8
